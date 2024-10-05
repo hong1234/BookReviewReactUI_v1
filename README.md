@@ -6,7 +6,7 @@ cd sym64_orm32_API
 
 php -S localhost:8000 -t public/
 
-## BookShopReactUI_v6
+## BookReviewReactUI_v1
 
 git clone https://github.com/hong1234/BookReviewReactUI_v1.git
 
